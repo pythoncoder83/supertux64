@@ -1,0 +1,12 @@
+CollisionShape3D
+StaticBody3D
+Label
+Node3D
+MeshInstance3D
+CharacterBody3D
+TextureRect
+CanvasLayer
+Sprite3D
+WorldEnvironment
+DirectionalLight3D
+Camera3D
